@@ -1,0 +1,1 @@
+for %%i in (*.pdf) do ( pdftops -f 1 -l 1 -eps %%i )

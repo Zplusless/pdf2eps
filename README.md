@@ -7,6 +7,8 @@ You can use Windows command line (a.k.a. cmd) , and type (change directory to ba
 
 `./pdf2eps.bat <page number> <pdf file>`
 
+run `pdf2eps_all.bat` will convert all pdf files in the current path into .eps file
+
 for example,
 
 `./pdf2eps.bat 1 input.pdf`
